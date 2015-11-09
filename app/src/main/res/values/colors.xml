@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="containerBg">#afafaf</color>
+    <color name="black">#000000</color>
+    <color name="darkPink">#f71f52</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#8effa5</color>
+</resources>
