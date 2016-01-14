@@ -12,3 +12,4 @@ It can be further improved and added new functionality upon you request.
 
 Thanks and you are welcomed to contact me through my email -> filippo.eng@gmail.com
 
+Please follow me on Github :)
